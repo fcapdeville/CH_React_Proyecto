@@ -1,6 +1,9 @@
-.itemListContainer {
+.CounterContainer{
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.btnCount button{
+    height: 2rem;
+    width: 2rem;
 }
